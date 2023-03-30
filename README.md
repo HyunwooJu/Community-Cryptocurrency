@@ -1,2 +1,1 @@
-# Community-Cryptocurrency
- 
+# 암호화폐 관련 커뮤니티 게시판
